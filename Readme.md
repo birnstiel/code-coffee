@@ -2,7 +2,7 @@
 
 ## Why?
 
-*Code coffee* is something like a self-help group of people at the [University Observatory Munich](http://usm.lmu.de) that want to chat about things related to computing - *coders anonymous* if you will.
+*Code coffee* is something like a self-help group of people at the [University Observatory Munich](http://www.usm.lmu.de) that want to chat about things related to computing - *coders anonymous* if you will.
 
 Irrespective of our field or our research focus, we all interact with computers on a daily basis on a large variety of issues:
 
@@ -22,7 +22,7 @@ Instead of reinventing the weel every time, we thought it would be useful to sha
 This could be like:
 
 > *"I stumbled over this new ... package which I found really useful. This is how it works ..."*
-  
+
 > *"I started using the ... editor and it has a couple of nice features that many people will like."*
 
 > *"I had to create an interactive visualization for outreach, this is what I did: ..."*
