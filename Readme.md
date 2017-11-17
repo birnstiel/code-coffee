@@ -44,4 +44,4 @@ Future topics including possible speakers can be found in the [wiki](https://git
 
 ## When?
 
-We will meet bi-weekly **Mondays at 2pm in the seminar room.** Topics will be announced on the mailing list and can also be found on the [wiki](https://github.com/birnstiel/code-coffee/wiki).
+We will meet bi-weekly **Tuesdays at 11am in the seminar room.** Topics will be announced on the mailing list and can also be found on the [wiki](https://github.com/birnstiel/code-coffee/wiki).
