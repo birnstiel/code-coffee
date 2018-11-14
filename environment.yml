@@ -3,5 +3,8 @@ channels:
   - QuantStack
   - conda-forge
 dependencies:
-  - xeus-cling=0.4.8
+  - clangdev=5.0.0=cling_1
+  - cling=0.5=2
+  - xeus=0.15.0=cling_0
+  - xeus-cling=0.4.8=0
   - notebook
