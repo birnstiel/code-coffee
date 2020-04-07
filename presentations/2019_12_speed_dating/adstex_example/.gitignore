@@ -1,0 +1,10 @@
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+aanda.pdf
+*.synctex.gz
+.ipynb_checkpoints/

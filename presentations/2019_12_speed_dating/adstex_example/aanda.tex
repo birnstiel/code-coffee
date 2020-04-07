@@ -1,0 +1,32 @@
+% !TEX encoding = UTF-8
+% !TEX program = pdflatex
+\documentclass{aa}
+\usepackage{natbib}
+\bibpunct{(}{)}{;}{a}{}{,} % to follow the A&A style
+\usepackage{xcolor}
+\usepackage{hyperref}
+\begin{document}
+
+\title{Example Paper}
+\author{A. Bee \inst{1}}
+\institute{ A University\\ \email{ab@auniversity.edu}}
+
+\date{Received \today; accepted XXXX}
+
+\abstract{}{}{}{}{}
+\keywords{}
+ \maketitle
+
+\section{Introduction}
+
+\citet{Stammler2019}
+\citet{Birnstiel2010}
+\citet{2010A&A...513A..79B}
+
+\begin{acknowledgements}
+\end{acknowledgements}
+
+\bibliographystyle{aa}
+\bibliography{bibliography}
+
+\end{document}
