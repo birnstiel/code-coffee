@@ -1,0 +1,9 @@
+---
+dictionary:
+    attr1: 2
+    attr2: "test"
+list:
+    - 1
+    - 2
+    - 3
+...
